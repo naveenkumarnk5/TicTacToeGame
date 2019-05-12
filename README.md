@@ -1,2 +1,2 @@
 # TicTacToeGame
-Tic tac toe game using Android Studio.
+Simple Tic tac toe game using Android Studio.
